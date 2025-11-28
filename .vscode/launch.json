@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/xujunjie/Project/Cache",
+      "program": "/Users/xujunjie/Project/Cache/build/Debug/outDebug"
+    }
+  ]
+}
